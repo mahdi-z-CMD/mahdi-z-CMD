@@ -31,3 +31,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-z-cmd&show_icons=true&locale=en&layout=compact" alt="mahdi-z-cmd" /></p>
+
+<p>Due to company privacy policies, I am unable to share Python projects involving Selenium and web scraping. 🤫</p>
